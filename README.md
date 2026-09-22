@@ -15,13 +15,13 @@
 2. Tap Start and send the command `/newbot`.
 3. Give the bot a display name: `Dolly Pump Guard`.
 4. Give the bot a unique username ending in "bot" (e.g., **dolly_pump_guard_bot**).
-5. BotFather will reply with an HTTP API Token (a long string like 1234567890:AAHdqT...). **Copy this token**; you will need it for the code.
+5. **BotFather** will reply with an HTTP API Token (*a long string like 1234567890:AAHdqT...*). **Copy this token**; you will need it for the code.
 
 ## 2. Get User Chat IDs
 
 Every person who needs to receive alerts or use the bot must find their personal Telegram Chat ID.<br>
 
-1. Open Telegram and search for @userinfobot or @myidbot.
+1. Open Telegram and search for `@userinfobot` or `@myidbot`.
 2. ap Start.
 3. The bot will instantly reply with a numeric ID (e.g., 333333333).
 4. Save the IDs for each member.
